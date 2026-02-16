@@ -44,7 +44,7 @@ Hotel management needs a centralized dashboard to:
 ---
 
 ## 📷 Dashboard Preview
-
+(Screenshot 2026-02-16 075954.png)
 ---
 
 ## 💡 Key Insights Generated
