@@ -43,20 +43,20 @@ Hotel management needs a centralized dashboard to:
 
 ---
 
+
 ## 📷 Dashboard Preview
 
-
 ### Revenue by City
-![Revenue by City](dashboard image/Screenshot 2026-02-16 080133.png)
+![Revenue by City](./dashboard%20image/Screenshot%202026-02-16%20080133.png)
 
 ### Room Category
-![Room Category](dashboard image/Screenshot 2026-02-16 080112.png)
+![Room Category](./dashboard%20image/Screenshot%202026-02-16%20080112.png)
 
 ### Booking Platform
-![Booking Platform](dashboard image/Screenshot 2026-02-16 080035.png)
+![Booking Platform](./dashboard%20image/Screenshot%202026-02-16%20080035.png)
 
 ### Full Dashboard
-![Full Dashboard](dashboard image/Screenshot 2026-02-16 075954.png)
+![Full Dashboard](./dashboard%20image/Screenshot%202026-02-16%20075954.png)
 
 ---
 
